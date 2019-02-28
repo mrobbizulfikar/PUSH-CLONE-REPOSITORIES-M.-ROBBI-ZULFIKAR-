@@ -1,0 +1,18 @@
+CARA PUSH :
+1. Buka GITHUB anda, lalu buat Repositories baru dan Copy SSH-nya
+2. Klik kanan file project >> Pilih "Git Bash Here"
+3. Ketik sintak :
+	"git init" >> Enter
+	"git add *" >> Enter
+	"git commit -m "KOMENTAR"" >> Enter
+	"git remote add origin (PASTE SSH-nya)" >> Enter
+	"git push -u origin master" >> Enter
+4. Selesai
+
+CARA CLONE :
+1. Buka GITHUB anda, lalu klik Repositories yang akan di Clone dan Copy SSH-nya
+2. Buat Folder baru untuk penyimpanan File yang akan di Clone
+3. Klik kanan Folder project >> Pilih "Git Bash Here"
+4. Ketik sintak :
+	"git clone (PASTE SSH-nya)">> Enter
+5. Selesai
